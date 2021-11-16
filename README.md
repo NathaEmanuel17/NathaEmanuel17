@@ -26,3 +26,5 @@
 ## Contato
 E-mail: nathaemanuel.eng@gmail.com
 
+![snake animation](github.com/NathaEmanuel17/NathaEmanuel17/output/github-contribution-grid-sanke.svg)
+
