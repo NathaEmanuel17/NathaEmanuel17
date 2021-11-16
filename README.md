@@ -1,3 +1,4 @@
+<div style="border: 2px solid red">
 
 
 ### Olá! eu sou o Nathã Emanuel ✨
@@ -39,4 +40,4 @@
 E-mail: nathaemanuel.eng@gmail.com
 
 ![Snake animation](https://github.com/NathaEmanuel17/NathaEmanuel17/blob/output/github-contribution-grid-snake.svg)
-
+</div>
