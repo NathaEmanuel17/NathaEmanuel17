@@ -101,16 +101,6 @@ Sou **Software Engineer (PHP/Laravel)** com sólida experiência em desenvolvime
 
 ---
 
-## 🏆 Projeto em Destaque
-
-### 🔹 Plataforma de Integração de Serviços (Safecompliance)
-
-- Plataforma unificada para monitoramento e integrações
-- Integração com **Monuv** (câmeras de segurança em tempo real)
-- Integração com **Atera** (monitoramento de dispositivos e inventário)
-- Foco em escalabilidade, segurança e usabilidade
-
----
 
 ## 🤝 Voluntariado
 
