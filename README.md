@@ -1,47 +1,130 @@
+# 👋 Olá, eu sou o Nathã Emanuel
 
+Sou **Software Engineer (PHP/Laravel)** com sólida experiência em desenvolvimento backend, arquitetura de sistemas, alta performance e regras de negócio complexas. Atuo na construção e manutenção de sistemas críticos, com foco em **segurança, escalabilidade, observabilidade e qualidade de código**.
 
-### Olá! eu sou o Nathã Emanuel ✨
+🚀 Atualmente trabalho com **Laravel, Vue.js, filas, cache, processamento assíncrono e grandes volumes de dados**, participando ativamente de decisões técnicas e liderança de time.
 
+---
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://-----)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://-----)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://-----)
+## 🧠 Sobre mim
 
+- 🎓 Bacharel em **Engenharia da Computação**
+- 💼 Software Engineer com experiência em **sistemas financeiros, CRM, plataformas corporativas e integrações complexas**
+- 🧩 Forte atuação em **arquitetura, performance, segurança e governança**
+- 🧑‍💻 Experiência em **liderança técnica**, code review e padronização
+- 🌎 Trabalho **100% remoto**
+- 📚 Inglês básico (em evolução)
 
-<br />
-<br />
-<div align="center">
-  <a href="https://github.com/NathaEmanuel17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathaEmanuel17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaEmanuel17&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+---
 
-## Tecnologias Web
+## 🛠️ Stack Principal
 
-<br />
-<div style="display:inline_block"></br>
-    <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
-     <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
-     <img aling="center" alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
-    <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
-    <img aling="center" alt="VueJS" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></img>
-    <img aling="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>
-    <img aling="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></img>
-    <img aling="center" alt="Codeigniter" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white"></img>
-    <img aling="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
-    <img align="right" width="200" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-</div><br>
+### Backend
+- PHP 8+
+- Laravel
+- CodeIgniter 4
+- APIs REST
+- Filas, Jobs, Cache
+- Arquitetura de sistemas e microsserviços
 
+### Frontend
+- Vue.js
+- JavaScript
+- HTML5 | CSS3
+- Bootstrap
+- jQuery
 
-## Linguagem delicinha 
-<div style="display:inline_block"></br>
-    <img aling="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>
-</div><br>
+### Banco de Dados
+- MySQL
+- Modelagem e otimização de queries
+- Processamento de grandes volumes de dados
 
-“Não são nossas habilidades que mostram quem realmente somos, são as nossas escolhas.”
+### DevOps & Qualidade
+- CI/CD (Azure DevOps)
+- Git (Gitflow)
+- Deploy automatizado
+- Observabilidade e auditoria de sistemas
 
-## Contato
-E-mail: nathaemanuel.eng@gmail.com
+### Cloud & Ferramentas
+- Azure DevOps (Repos, Boards, Pipelines)
+- Trello | Jira
+- Power BI
+- Power Automate
+- SharePoint
 
-![Snake animation](https://github.com/NathaEmanuel17/NathaEmanuel17/blob/output/github-contribution-grid-snake.svg)
+---
 
+## 💼 Experiência Profissional
+
+### 🏢 **DRSgroup** — *Software Engineer (PHP/Laravel)*  
+📅 **07/2024 – Atual**
+
+- Desenvolvimento e manutenção de sistemas financeiros de alta criticidade
+- Processamento e reprocessamento de **milhões de registros**
+- Criação de **plataforma interna de observabilidade e auditoria**
+- Implementação de filas, cache e jobs assíncronos
+- Liderança técnica: arquitetura, code review e boas práticas
+- CI/CD com Azure DevOps
+- Desenvolvimento Full Stack com Laravel + Vue.js
+
+---
+
+### 🏢 **Crescido** — *Analista de Sistemas Pleno*  
+📅 **06/2023 – 02/2024**
+
+- Evolução de **CRM Imobiliário**
+- Definição de regras de negócio e alinhamento com stakeholders
+- Arquitetura e manutenção de microsserviços
+- Integrações com Google, Facebook, Stripe e FocusNFe
+- Suporte técnico e resolução de problemas complexos
+
+---
+
+### 🏢 **Safecompliance** — *Desenvolvedor Full Stack*  
+📅 **08/2022 – 08/2024**
+
+- Desenvolvimento full stack com PHP, Laravel, CodeIgniter e JS
+- Criação de APIs, integrações e aplicações corporativas
+- Atuação completa no ciclo do projeto (arquitetura → deploy)
+- Soluções com Power Platform (PowerApps, Power BI, Automate)
+- Liderança técnica em time enxuto
+
+---
+
+### 🏢 **WhyDigital** — *Desenvolvedor PHP / CodeIgniter*  
+📅 **08/2022 – 08/2024**
+
+- Desenvolvimento e manutenção de aplicações web
+- Otimização de performance e refatoração
+- Controle de versão com Azure DevOps
+- Apoio em decisões técnicas e arquitetura
+
+---
+
+## 🏆 Projeto em Destaque
+
+### 🔹 Plataforma de Integração de Serviços (Safecompliance)
+
+- Plataforma unificada para monitoramento e integrações
+- Integração com **Monuv** (câmeras de segurança em tempo real)
+- Integração com **Atera** (monitoramento de dispositivos e inventário)
+- Foco em escalabilidade, segurança e usabilidade
+
+---
+
+## 🤝 Voluntariado
+
+**Projeto Idade Ativa**  
+Apoio à inclusão digital de pessoas idosas, auxiliando no uso de tecnologias e aplicativos, promovendo autonomia e aprendizado.
+
+---
+
+## 📫 Contato
+
+- 📧 Email: **nathaemanuel.eng@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/natha-emanuel-goncalves](https://www.linkedin.com/in/natha-emanuel-goncalves/)
+- 💻 GitHub: [github.com/NathaEmanuel17](https://github.com/NathaEmanuel17)
+
+---
+
+⭐ *Sempre aberto a novos desafios e projetos de alto impacto.*
